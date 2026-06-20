@@ -11,6 +11,6 @@
     "key": "key5",
     "expiresAt": "2027-06-15",
     "allowOffline": false,
-    "isBlocked": key2
+    "isBlocked": true
   }
 ]
