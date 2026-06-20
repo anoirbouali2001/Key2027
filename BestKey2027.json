@@ -1,14 +1,14 @@
 [
   {
-    "id": "abc123def456ghi789",
-    "key": "key1",
-    "expiresAt": "2025-05-30",
-    "allowOffline": true
+    "security_control": true,
+    "expected_signature": "ضع_هنا_رمز_توقيع_تطبيقك",
+    "block_vpn": true,
+    "maintenance": false
   },
   {
-    "id": "fc35c0f622c10a2f",
-    "key": "key2",
-    "expiresAt": "2026-06-14",
-    "allowOffline": false
+    "id": "abc123def456ghi789",
+    "key": "key1",
+    "expiresAt": "2026-12-30",
+    "allowOffline": true
   }
 ]
