@@ -9,6 +9,6 @@
     "id": "fc35c0f622c10a2f",
     "key": "key2",
     "expiresAt": "2026-06-14",
-    "allowOffline": true
+    "allowOffline": false
   }
 ]
