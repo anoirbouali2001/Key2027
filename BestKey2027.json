@@ -8,9 +8,9 @@
   },
   {
     "id": "fc35c0f622c10a2f",
-    "key": "key2",
+    "key": "key5",
     "expiresAt": "2027-06-15",
     "allowOffline": false,
-    "isBlocked": true
+    "isBlocked": key2
   }
 ]
