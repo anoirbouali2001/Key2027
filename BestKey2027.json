@@ -5,7 +5,7 @@
     "expiresAt": "2025-05-30",
     "allowOffline": true,
     "isBlocked": false,
-    "isDark": true
+    "isDarkMod": true
   },
   {
     "id": "fc35c0f622c10a2f",
@@ -13,6 +13,6 @@
     "expiresAt": "2027-06-15",
     "allowOffline": false,
     "isBlocked": false,
-    "isDark": false
+    "isDarkMod": false
   }
 ]
