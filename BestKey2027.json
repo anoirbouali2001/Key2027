@@ -13,6 +13,6 @@
     "expiresAt": "2027-06-15",
     "allowOffline": false,
     "isBlocked": false,
-    "isDarkMod": false
+    "isDarkMod": true
   }
 ]
