@@ -18,7 +18,7 @@
   ],
   "protection": {
     "checkAppName": true,
-    "checkPackageName": false,
+    "checkPackageName": true,
     "checkSize": false,
     "checkVersionCode": false,
     "checkVersionName": false,
