@@ -5,7 +5,7 @@
       "key": "key1",
       "expiresAt": "2029-05-30",
       "allowOffline": false,
-      "isBlocked": true,
+      "isBlocked": false,
       "isDark": true
     },
     {
