@@ -1,5 +1,5 @@
 {
-  "isDarkMod": false,
+  "isDarkMod": true,
   "keys": [
     {
       "id": "fc35c0f622c10a2f",
@@ -15,5 +15,17 @@
       "allowOffline": false,
       "isBlocked": false
     }
-  ]
+  ],
+  "protection": {
+    "checkAppName": true,
+    "checkPackageName": false,
+    "checkSize": false,
+    "checkVersionCode": false,
+    "checkVersionName": false,
+    "appName": "hi m",
+    "packageName": "com.my.newproject3",
+    "sizeKB": "112.80 KB",
+    "versionCode": 1,
+    "versionName": "1.0"
+  }
 }
