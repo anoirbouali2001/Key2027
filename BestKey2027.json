@@ -1,9 +1,9 @@
 {
-  "isDarkMod": true,
+  "isDarkMod": false,
   "keys": [
     {
       "id": "fc35c0f622c10a2f",
-      "key": "key1",
+      "key": "key10",
       "expiresAt": "2029-05-30",
       "allowOffline": false,
       "isBlocked": false
