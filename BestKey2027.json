@@ -1,19 +1,20 @@
 {
-  "isDarkMod": false,
   "keys": [
     {
       "id": "fc35c0f622c10a2f",
       "key": "key1",
       "expiresAt": "2029-05-30",
       "allowOffline": false,
-      "isBlocked": true
+      "isBlocked": true,
+      "isDark": false
     },
     {
       "id": "fc35c0f222c30a2f",
       "key": "key2",
       "expiresAt": "2027-06-15",
       "allowOffline": false,
-      "isBlocked": false
+      "isBlocked": false,
+      "isDark": true
     }
   ]
 }
