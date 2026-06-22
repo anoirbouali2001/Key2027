@@ -3,7 +3,7 @@
   "keys": [
     {
       "id": "fc35c0f622c10a2f",
-      "key": "key3",
+      "key": "key1",
       "expiresAt": "2029-05-30",
       "allowOffline": false,
       "isBlocked": false
@@ -15,17 +15,5 @@
       "allowOffline": false,
       "isBlocked": false
     }
-  ],
-  "protection": {
-    "checkAppName": true,
-    "checkPackageName": true,
-    "checkSize": false,
-    "checkVersionCode": false,
-    "checkVersionName": false,
-    "appName": "hi m",
-    "packageName": "com.my.newproject3",
-    "sizeKB": "112.80 KB",
-    "versionCode": 1,
-    "versionName": "1.0"
-  }
+  ]
 }
