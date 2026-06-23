@@ -6,7 +6,7 @@
       "key": "key1",
       "expiresAt": "2029-05-30",
       "allowOffline": false,
-      "isBlocked": true
+      "isBlocked": false
     },
     {
       "id": "fc35c0f222c30a2f",
