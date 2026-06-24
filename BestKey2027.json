@@ -1,11 +1,11 @@
 {
-  "isDarkMod": true,
   "keys": [
     {
       "id": "abc123def456ghi789",
       "key": "key1",
       "expiresAt": "2025-05-30",
       "allowOffline": true,
+      "isDarkMod": true,
       "isBlocked": false
     },
     {
@@ -13,6 +13,7 @@
       "key": "key2",
       "expiresAt": "2027-06-15",
       "allowOffline": false,
+      "isDarkMod": false,
       "isBlocked": false
     }
   ]
