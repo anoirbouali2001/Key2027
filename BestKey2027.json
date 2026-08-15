@@ -1,6 +1,6 @@
 {
-  "isDarkMod": true,
-  "islanguage": "en",
+  "isDarkMod": false,
+  "islanguage": "ar",
   "keys": [
     {
       "id": "abc123def456ghi729",
@@ -11,7 +11,7 @@
     },
     {
       "id": "188624a6c2cdb162",
-      "key": "key3",
+      "key": "key2",
       "expiresAt": "2027-06-15",
       "allowOffline": false,
       "isBlocked": false
