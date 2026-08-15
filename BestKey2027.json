@@ -1,6 +1,22 @@
 {
-  "isDarkMod": true,
-  "islanguage": "en",
+  "isDarkMod": false,
+  "islanguage": "ar",
+  "checkPackage": {
+    "enabled": true,
+    "value": "com.my.newproject"
+  },
+  "checkVersion": {
+    "enabled": true,
+    "value": "1.0"
+  },
+  "checkSize": {
+    "enabled": false,
+    "maxMB": 50
+  },
+  "checkSignature": {
+    "enabled": false,
+    "value": "ضعي هنا SHA-256 لتوقيعك"
+  },
   "keys": [
     {
       "id": "abc123def456ghi729",
