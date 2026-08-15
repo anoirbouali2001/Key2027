@@ -7,7 +7,7 @@
   },
   "checkVersion": {
     "enabled": true,
-    "value": "1.0"
+    "value": "2.0"
   },
   "checkSize": {
     "enabled": false,
