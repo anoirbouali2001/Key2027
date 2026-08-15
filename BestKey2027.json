@@ -1,12 +1,12 @@
 {
-  "isDarkMod": false,
-  "islanguage": "ar",
+  "isDarkMod": true,
+  "islanguage": "en",
   "checkPackage": {
     "enabled": true,
-    "value": "com.my.newproject"
+    "value": "com.my2.newproject"
   },
   "checkVersion": {
-    "enabled": true,
+    "enabled": false,
     "value": "1.0"
   },
   "checkSize": {
