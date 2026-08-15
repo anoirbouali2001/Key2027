@@ -6,7 +6,7 @@
     "value": "com.my.newproject"
   },
   "checkVersion": {
-    "enabled": false,
+    "enabled": true,
     "value": "1.0"
   },
   "checkSize": {
