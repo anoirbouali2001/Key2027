@@ -1,26 +1,20 @@
 {
   "isDarkMod": false,
   "islanguage": "ar",
-  "devices": {
-    "abc123def456ghi729": {
-      "isDarkMod": true,
-      "islanguage": "ar",
-      "checkPackage": { "enabled": false, "value": "com.my.newproject" },
-      "checkVersion": { "enabled": false, "value": "1.0" },
-      "checkSize": { "enabled": false, "maxKB": 0, "maxMB": 0, "maxGB": 0 },
-      "checkSignature": { "enabled": false, "value": "A4:0D:A8:0A:59:D1:70:CA:A9:50:CF:15:C1:8C:45:4D:47:A3:9B:26:98:9D:8B:64:0E:CD:74:5B:A7:1B:F5:DC" }
-    },
-    "188624a6c2cdb162": {
-      "isDarkMod": true,
-      "islanguage": "en",
-      "checkPackage": { "enabled": false, "value": "com.my.newproject" },
-      "checkVersion": { "enabled": false, "value": "1.0" },
-      "checkSize": { "enabled": false, "maxKB": 0, "maxMB": 0, "maxGB": 0 },
-      "checkSignature": { "enabled": false, "value": "A4:0D:A8:0A:59:D1:70:CA:A9:50:CF:15:C1:8C:45:4D:47:A3:9B:26:98:9D:8B:64:0E:CD:74:5B:A7:1B:F5:DC" }
-    }
-  },
   "keys": [
-    { "id": "abc123def456ghi729", "key": "key1", "expiresAt": "2025-05-30", "allowOffline": false, "isBlocked": false },
-    { "id": "188624a6c2cdb162", "key": "key2", "expiresAt": "2027-06-15", "allowOffline": false, "isBlocked": false }
+    {
+      "id": "abc123def456ghi729",
+      "key": "key1",
+      "expiresAt": "2025-05-30",
+      "allowOffline": true,
+      "isBlocked": false
+    },
+    {
+      "id": "188624a6c2cdb162",
+      "key": "key2",
+      "expiresAt": "2027-06-15",
+      "allowOffline": false,
+      "isBlocked": false
+    }
   ]
 }
